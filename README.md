@@ -5,10 +5,10 @@ This is a research collaboration between Luna (Ecology Evolutionary Biology Lab,
 A database for managing and retrieving published phylogenetic trees. To this aim, several steps are needed:
 
 1. A collection of candidate publications (in PDF format) with phylogenetic tree figures.
-2. All figures are identified, cropped out from the original paper and converted into picture in a unified format(PNG).
-3. Figures with no phylogenetic trees are discarded.
-4. Information from tree images is extracted and stored into a computer-readable format (Newick).
-5. All the above information is organized into a database.
+2.1 All figures are identified, cropped out from the original paper and converted into picture in a unified format(PNG).
+2.2 Figures with no phylogenetic trees are discarded.
+3. Information from tree images is extracted and stored into a computer-readable format (Newick).
+4. All the above information is organized into a database.
 
 ![pic2newickerdiagram](https://user-images.githubusercontent.com/20075487/45761609-92911580-bbfa-11e8-993d-b955037f0d7b.png)
 
