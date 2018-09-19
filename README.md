@@ -26,7 +26,7 @@ A database for managing and retireveing published phylogenetic tree. To this aim
 ### evaluate prediction confidence
 ***the evaluation of prediction accuracy for unlabel data is needed so that we can pick out those problematic pictures and improve the database mannully.***
 
-1. find out features that prediction performence are sensitive to (***for example, to predict age of a person, it's easier to tell if the person is a female rather than male. Another example, it's easier to predict between Chinese and British, but harder for Chinese and Japanese***)
+1. find out features that prediction performence are sensitive to (***for example, to predict age of a person, it's easier to tell if the person is a female rather than male. Another example, it's easier to predict nationality between Chinese and British, but harder for Chinese and Japanese***)
 2. design model specific for the above features
 3. softmax and cross-entropy may be helpful to evaluate the prediction confidence
 4. compare the unsupervised clustering results of raw picutures and extracted code or generated pictures may be helpful
