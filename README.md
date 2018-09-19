@@ -11,7 +11,7 @@ A database for managing and retireveing published phylogenetic tree. To this aim
 
 ![pic2newickerdiagram](https://user-images.githubusercontent.com/20075487/45761609-92911580-bbfa-11e8-993d-b955037f0d7b.png)
 
-## Approche a: Manually-engineered steps for pictures with standard presentations
+## Approche A: Manually-engineered steps for pictures with standard presentations
 ### design phase
 1. synthesize data
 2. design model (attention mechanism with simple filters)
@@ -31,7 +31,7 @@ A database for managing and retireveing published phylogenetic tree. To this aim
 3. softmax and cross-entropy may be helpful to evaluate the prediction confidence
 4. compare the unsupervised clustering results of raw picutures and extracted code or generated pictures may be helpful
 
-## Approche b: Deep learning model with standard presentations
+## Approche B: Deep learning model with standard presentations
 Deep learning method for this project is mainly based on image caption archetecture which is a hybrid betwee CNN(convolutional neural network) for image feature extraction and a RNN(recurrent neural network) for generating language which is newick code here. 
 
 ### acquire data
