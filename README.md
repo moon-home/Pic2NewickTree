@@ -1,5 +1,5 @@
 # Pic2NewickTree
-This is a research collaboration between Luna (Ecology Evolutionary Biology Lab, UTK) and Moon (Computational Biology Lab, UTK).
+This is a research collaboration between Luna (B. O'Meara lab, Ecology Evolutionary Biology Department, UTK) and Moon (Computational Biology Lab, UTK).
 
 ## Final product
 A database for managing and retrieving published phylogenetic trees. To this aim, several steps are needed:
@@ -33,7 +33,7 @@ A database for managing and retrieving published phylogenetic trees. To this aim
 4. comparing the unsupervised clustering results of raw picutures and the extracted code or generated pictures might be helpful
 
 ## Approach B: Deep learning model with standard presentations
-Deep learning method for this project is mainly based on image caption architecture which is a hybrid between CNN (convolutional neural network) for image feature extraction and RNN (recurrent neural network) for generating language which is newick code here. 
+Deep learning method for this project is mainly based on image caption architecture which is a hybrid between CNN (convolutional neural network) for image feature extraction and RNN (recurrent neural network) for generating language which is newick code here.
 
 ### acquire data
 (0. same labeled data)
