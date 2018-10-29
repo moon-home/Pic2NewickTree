@@ -2,32 +2,31 @@
 
 You can use either Pdf2Pic.py or Pdf2Pic.ipynb for this
 
-#### Optional: rename all pdf files
+#### Step 1(Optional): rename all pdf files
 
 1. Put all pdf files into a folder called "PDFS" which is in the same directory of Rename.ipynb.
 2. Run Rename.ipynb or Rename.py
 
-#### Use Pdf2Pic.py to extract pictures
+#### Step 2: extract pictures from pdf files
 
-**Step1**: Have a folder of your pdf files
+#### option 1 is to use Pdf2Pic.py
 
-**Step2**: download Pdf2Pic.py
+1. Have a folder of your pdf files
 
-**Step2**: run below code in your command line console
+2. : download Pdf2Pic.py
+
+3: run below code in your command line console
 ```
 python Pdf2Pic.py [your folder name]
 ```
 
+#### option 2 is to use Pdf2Pic.ipynb
 
-#### Use Pdf2Pic.ipynb to extract pictures
+1: Create a folder called "PDFS" in the same directory where you will put Pdf2Pic.ipynb. 
 
-**Step1**: Create a folder called "PDFS" in the same directory where you will put Pdf2Pic.ipynb. 
+2: Put all pdf files into this folder.
 
-**Setp2**: Put all pdf files into this folder.
-
-**Step3**: download and run Pdf2Pic.ipynb. 
-
-
+3: download and run Pdf2Pic.ipynb. 
 
 
 **Result**: All extracted pictures are saved as png files in a folder called "Pdf2Pic_output". Each picture is named in the form of pdfname_pagenumber_imagename.png.
