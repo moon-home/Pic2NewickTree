@@ -2,6 +2,11 @@
 
 You can use either Pdf2Pic.py or Pdf2Pic.ipynb for this
 
+#### Optional: rename all pdf files
+
+1. Put all pdf files into a folder called "PDFS" which is in the same directory of Rename.ipynb.
+2. Run Rename.ipynb or Rename.py
+
 #### Use Pdf2Pic.py
 
 **Step1**: Have a folder of your pdf files
