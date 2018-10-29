@@ -9,7 +9,7 @@ You can use either Pdf2Pic.py or Pdf2Pic.ipynb for this
 
 #### Step 2: extract pictures from pdf files
 
-#### option 1 is to use Pdf2Pic.py
+option 1 is to use **Pdf2Pic.py**
 
 1. Have a folder of your pdf files
 
@@ -20,7 +20,7 @@ You can use either Pdf2Pic.py or Pdf2Pic.ipynb for this
 python Pdf2Pic.py [your folder name]
 ```
 
-#### option 2 is to use Pdf2Pic.ipynb
+option 2 is to use **Pdf2Pic.ipynb**
 
 1: Create a folder called "PDFS" in the same directory where you will put Pdf2Pic.ipynb. 
 
