@@ -6,4 +6,4 @@
 
 **Step3**: run "python Pdf2Pic.py" or Pdf2Pic.ipynb. 
 
-Note: Enviroment file for conda is provided, if you perfer not using yml file, just install python 3 and the imported libraries in the header of Pdf2Pic.py
+Note: All extracted pictures are saved as png files in a folder called "Pdf2Pic_output" with a subfolder for each pdf file. Enviroment file for conda is provided, if you perfer not using yml file, just install python 3 and the imported libraries in the header of Pdf2Pic.py
