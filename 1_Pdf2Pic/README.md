@@ -7,7 +7,7 @@ You can use either Pdf2Pic.py or Pdf2Pic.ipynb for this
 1. Put all pdf files into a folder called "PDFS" which is in the same directory of Rename.ipynb.
 2. Run Rename.ipynb or Rename.py
 
-#### Use Pdf2Pic.py
+#### Use Pdf2Pic.py to extract pictures
 
 **Step1**: Have a folder of your pdf files
 
@@ -19,7 +19,7 @@ python Pdf2Pic.py [your folder name]
 ```
 
 
-#### Use Pdf2Pic.ipynb
+#### Use Pdf2Pic.ipynb to extract pictures
 
 **Step1**: Create a folder called "PDFS" in the same directory where you will put Pdf2Pic.ipynb. 
 
