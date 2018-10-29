@@ -1,5 +1,7 @@
 ## This module Pdf2Pic.py extracts all pictures from pdf files. 
 
+Use Pdf2Pic.ipynb
+
 **Step1**: Create a folder called "PDFS" in the same directory as this Pdf2Pic python file. 
 
 **Setp2**: Put all pdf files into this folder.
