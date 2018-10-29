@@ -27,4 +27,4 @@ python Pdf2Pic.py [your folder name]
 
 **Result**: All extracted pictures are saved as png files in a folder called "Pdf2Pic_output". Each picture is named in the form of pdfname_pagenumber_imagename.png.
 
-Note: Enviroment file for conda is provided, if you perfer not using yml file, just install python 3 and the imported libraries in the header of Pdf2Pic.ipynb.
+python 3 and the libraries in the header of Pdf2Pic.ipynb are used.
