@@ -1,1 +1,10 @@
 To facilitate building the dataset for tree pictures. We made this GUI where you can press keyboard to classify pictures. 
+
+## To use this GUI
+#### Step 1: Create a folder called "UnclassifiedPics". Put all your pictures into this folder.
+
+#### Step 2: Run ClassifyPicByHuman.ipynb in the same directory of that folder.
+
+Below is the interface by runing ClassifyPicByHuman.ipynb:
+![](ClassifierGUI.png "lll")
+      
