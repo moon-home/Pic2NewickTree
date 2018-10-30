@@ -1,4 +1,4 @@
-To facilitate building the dataset for tree pictures. We made this GUI where you can press keyboard to classify pictures. 
+To facilitate building the dataset for tree pictures. I made this GUI where you can press keyboard to classify pictures. 
 
 ## To use this GUI
 #### Step 1: Create a folder called "UnclassifiedPics". Put all your pictures into this folder.
